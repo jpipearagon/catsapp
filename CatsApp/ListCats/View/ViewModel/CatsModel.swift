@@ -1,8 +1,8 @@
 //
-//  SearchModel.swift
-//  BoldTest
+//  CatsModel.swift
+//  CatsApp
 //
-//  Created by Felipe Aragon on 24/03/23.
+//  Created by Felipe Aragon on 21/05/23.
 //
 
 import Foundation

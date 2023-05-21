@@ -1,8 +1,8 @@
 //
-//  SearchRouter.swift
-//  BoldTest
+//  CatsRouter.swift
+//  CatsApp
 //
-//  Created by Felipe Aragon on 23/03/23.
+//  Created by Felipe Aragon on 21/05/23.
 //
 
 import UIKit
@@ -28,7 +28,7 @@ final class CatsRouter: CatsRouterProtocol {
         guard let navigation = navigation else {
             return
         }
-        //let viewcontroller = DetailModuleConfigurator.view(locationName: location.name)
+        //let viewcontroller = DetailModuleConfigurator.view(cat: cat)
         //navigation.pushViewController(viewcontroller, animated: true)
     }
 }
